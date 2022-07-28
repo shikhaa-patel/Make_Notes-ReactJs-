@@ -1,0 +1,14 @@
+{
+  "notes": [
+    {
+      "title": "Stationary",
+      "description": "pen \npencil\nbook\n",
+      "id": 1
+    },
+    {
+      "title": "Home",
+      "description": "groceries\nfruits \nvegitables",
+      "id": 2
+    }
+  ]
+}

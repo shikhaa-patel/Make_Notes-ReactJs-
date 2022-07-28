@@ -1,0 +1,156 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.textt,.ntextt{
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+  width: 80vw;
+  margin: 15vh 10vw;
+  border-style: solid;
+  border-color: white;
+}
+.ntextt{
+  margin: 8vh 10vw;
+}
+body{
+  background-color: #282c34;
+  
+}
+.titlee{
+  height: 7vh;
+  width: 70vw;
+  margin: 1vh auto 1.5vh auto ;
+  background-color: #282c34;
+  border-style: solid;
+  border-color: white;
+  color: white;
+}
+
+.total{
+  background-color: #282c34;
+  text-align: left;
+  margin: 3vh;
+  height: auto;
+  padding: 1.5vh;
+
+}
+.total:hover{
+  background-color: #212226;
+  height: 17vh;
+}
+
+
+.desc{
+  height:  14vh;
+  width: 70vw;
+  margin: 1vh auto 1.5vh auto ;
+  background-color: #282c34;
+  border-style: solid;
+  border-color: white;
+  color: white;
+}
+.dtitle{
+  height:  14vh;
+  width: 70vw;
+  margin: 10vh auto 0vh auto ;
+  background-color: #0b152a;
+  color: white;
+  padding: 4vh;
+}  
+
+hr{
+  color: white;
+  width: 60vw;
+  margin: auto auto 3vh auto ;
+}
+.add{
+  height: 5vh;
+  width: 6vw;
+  margin: 2vh 5vw;
+  background-color: #282c34;
+  border-style: solid;
+  border-color: white;
+  color: white;
+  font-size: 2.5vh;
+
+}
+.delete{
+  margin: 0.5vh auto 4.5vh -64vw ;
+  height: 5vh;
+  width: 6vw;
+  background-color: #282c34;
+  border-style: solid;
+  border-color: white;
+  color: white;
+  font-size: 2.5vh;
+}
+.h1,.nh1{
+  margin: 7vh ;
+  color: white;
+}
+.nh1{
+  margin: 4vh auto 3vh auto ;
+}
+p{
+  color: white;
+}
+.th1{
+    color: white;
+}
+.contentss a{
+  text-decoration: none;
+}
+.ddes{
+  height:  14vh;
+  width: 70vw;
+  margin: 0vh auto 1.5vh auto ;
+  background-color: #0b152a;
+  color: white;
+}
+.ddel{
+  height: 5vh;
+  width: 6vw;
+  margin: 2vh 5vw;
+  background-color: #282c34;
+  border-style: solid;
+  border-color: white;
+  color: white;
+  font-size: 2.5vh;
+}
+
